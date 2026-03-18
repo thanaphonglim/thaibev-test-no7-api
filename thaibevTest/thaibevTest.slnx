@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="thaibevTest.Api/thaibevTest.Api.csproj" />
+  <Project Path="thaibevTest.Application/thaibevTest.Application.csproj" />
+  <Project Path="thaibevTest.Domain/thaibevTest.Domain.csproj" />
+  <Project Path="thaibevTest.Infrastructure/thaibevTest.Infrastructure.csproj" />
+</Solution>
