@@ -1,6 +1,6 @@
 # amass-product-test-api
 
-.Net Core Web API สำหรับ จัดการสินค้า
+.Net Core Web API สำหรับ จัดการสินค้า เนื่องจาก โจทย์ conflict กับตัวอย่างในรูปเลยอิงโจทย์เป็นหลัก
 
 ## Feature
 ### Product
